@@ -17,7 +17,24 @@ O projeto é construído com tecnologias front-end puras para garantir alta perf
 ## 📂 Estrutura do Projeto
 
 A estrutura de arquivos segue uma convenção clara para facilitar a manutenção e a navegação:
-dev-studio/ css/ style.css # Estilos gerais do site animate-responsive.css # Estilos para responsividade e animações js/ navbar.js # Lógica de carregamento e menu do cabeçalho portfolio.js # Renderização dinâmica dos projetos script.js # Funções utilitárias gerais img/ logo.png/logo.svg # Arquivos de imagem (logo, ícones, mockups) index.html quem-somos.html portfolio.html equipe.html contato.html README.md
+
+* **`DEV-STUDIO/`** (Raiz do Projeto)
+    * **`assets/`**
+        * `animate-responsive.css` - Estilos para responsividade e animações.
+        * `equipe.js` - Lógica para a página da equipe.
+        * `interactive.js` - Scripts para interatividade geral.
+        * `logo.svg` - Arquivo SVG da logo.
+        * `navbar.js` - Lógica de carregamento e menu do cabeçalho.
+        * `portfolio.js` - Renderização dinâmica dos projetos.
+        * `style.css` - Estilos gerais do site.
+    * `_redirects` - Arquivo de configuração de redirecionamento (para hospedagem).
+    * `contato.html`
+    * `equipe.html`
+    * `home.html`
+    * `index.html` - Página inicial principal.
+    * `portfolio.html`
+    * `quem-somos.html`
+    * `README.md`
 
 ## ✨ Funcionalidades Principais
 
