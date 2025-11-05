@@ -1,4 +1,4 @@
-# 💻 DevStudio: Soluções Digitais Sob Medida
+# 💻 DevStudio: Soluções Digitais
 
 Este repositório contém o código-fonte completo do site institucional da **DevStudio**, uma empresa especializada no desenvolvimento de soluções digitais inovadoras, focado em web, mobile, UX/UI e consultoria em DevOps.
 
@@ -33,6 +33,7 @@ dev-studio/
 ├── equipe.html
 ├── contato.html
 └── README.md
+
 ## ✨ Funcionalidades Principais
 
 * **Design Responsivo:** O layout se adapta perfeitamente a qualquer dispositivo (desktops, tablets e smartphones).
