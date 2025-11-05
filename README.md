@@ -16,7 +16,23 @@ O projeto é construído com tecnologias front-end puras para garantir alta perf
 
 ## 📂 Estrutura do Projeto
 
-A estrutura de arquivos segue uma convenção clara para facilitar a manutenção e a navegação:dev-studio/ ├── css/ │ ├── style.css # Estilos gerais do site │ └── animate-responsive.css # Estilos para responsividade e animações ├── js/ │ ├── navbar.js # Lógica de carregamento e menu do cabeçalho │ ├── portfolio.js # Renderização dinâmica dos projetos │ └── script.js # Funções utilitárias gerais ├── img/ │ └── logo.png/logo.svg # Arquivos de imagem (logo, ícones, mockups) ├── index.html ├── quem-somos.html ├── portfolio.html ├── equipe.html ├── contato.html └── README.md
+A estrutura de arquivos segue uma convenção clara para facilitar a manutenção e a navegação:
+dev-studio/
+├── css/
+│   ├── style.css             # Estilos gerais do site
+│   └── animate-responsive.css # Estilos para responsividade e animações
+├── js/
+│   ├── navbar.js             # Lógica de carregamento e menu do cabeçalho
+│   ├── portfolio.js          # Renderização dinâmica dos projetos
+│   └── script.js             # Funções utilitárias gerais
+├── img/
+│   └── logo.png/logo.svg     # Arquivos de imagem (logo, ícones, mockups)
+├── index.html
+├── quem-somos.html
+├── portfolio.html
+├── equipe.html
+├── contato.html
+└── README.md
 ## ✨ Funcionalidades Principais
 
 * **Design Responsivo:** O layout se adapta perfeitamente a qualquer dispositivo (desktops, tablets e smartphones).
